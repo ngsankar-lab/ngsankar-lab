@@ -67,10 +67,9 @@ current_focus = {
 
 ### 📫 Let's Connect!
 
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 📧 **Email**: [ngsankar@gmail.com]
-- 🐦 **Twitter**: [@YourHandle] (if you have one)
-- 💬 **Discord**: [Your Discord] (if relevant)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ngsankar/
+- 📧 **Email**: ngsankar@gmail.com
+- 🐦 **Twitter**: @NGowriSankar
 
 ### 🌟 Featured Projects
 
