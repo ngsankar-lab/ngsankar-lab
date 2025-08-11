@@ -40,10 +40,6 @@ WLS Administration | Clustering | Failover Systems
 Scalable System Design
 ```
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
 ### 🔬 What I'm Working On
 
 - 🔬 **AI POCs**: Experimenting with enterprise AI integration patterns
@@ -72,7 +68,7 @@ current_focus = {
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 📧 **Email**: [Your Email]
+- 📧 **Email**: [ngsankar@gmail.com]
 - 🐦 **Twitter**: [@YourHandle] (if you have one)
 - 💬 **Discord**: [Your Discord] (if relevant)
 
